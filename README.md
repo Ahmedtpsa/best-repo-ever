@@ -1,2 +1,4 @@
-# best-repo-ever
-line 2 to create conflict and resolve
+new-branch-1
+=======
+#First edit from Salesforce trailmix using Git!
+main
